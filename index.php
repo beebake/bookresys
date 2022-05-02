@@ -12,7 +12,7 @@
 
 <html>
 	<head>
-		<title>LMS</title>
+		<title>BRS</title>
 		<link rel="stylesheet" type="text/css" href="css/index_style.css" />
 	</head>
 	<body>
