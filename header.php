@@ -7,7 +7,7 @@
 		<header>
 			<a href="./">
 				<div id="cd-logo">
-					<img src="img/ic_logo2.svg" alt="Logo" width="45" height="45" />
+					<img src="img/ic_logo2.svg" alt="Logo" width="45" height="45" /> &nbsp
 					<p>Book Reservation System</p>
 				</div>
 			</a>
