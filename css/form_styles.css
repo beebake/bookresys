@@ -137,6 +137,11 @@
   transform: scale(0.9);
 }
 
+.cd-form input[type="submit"]:hover{
+  background-color: #e7e7e7;
+  color: black;  
+}
+
 .cd-form [required] {
   background: url("img/ic_required.svg") no-repeat top right;
 }
